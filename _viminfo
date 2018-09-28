@@ -1,0 +1,344 @@
+# 本 viminfo 檔案是由 Vim 8.0 所產生.
+# 如果想要自行修改請特別小心！
+
+# Viminfo version
+|1,4
+
+# 'encoding' 在此檔建立時的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Last Search Pattern:
+~MSle0~/font
+
+# 命令列 歷史記錄 (新到舊):
+:q!
+|2,0,1519635080,,"q!"
+:PlugUpgrade
+|2,0,1505913526,,"PlugUpgrade"
+:PlugUpdate
+|2,0,1505913515,,"PlugUpdate"
+:w!
+|2,0,1505913504,,"w!"
+::
+|2,0,1505911536,,":"
+:q
+|2,0,1505910963,,"q"
+:q:q!
+|2,0,1505910963,,"q:q!"
+
+# 搜尋字串 歷史記錄 (新到舊):
+?/font
+|2,1,1505913454,47,"font"
+
+# 運算式 歷史記錄 (新到舊):
+
+# 輸入行  歷史記錄 (新到舊):
+
+# Debug Line 歷史記錄 (新到舊):
+
+# 暫存器:
+"0	LINE	0
+	"call plug#begin($VIM . '\vimfiles\plugged')
+|3,0,0,1,1,0,1505909016,"\"call plug#begin($VIM . '\\vimfiles\\plugged')"
+"1	LINE	0
+	"       vim-markdown depends on tabular
+|3,0,1,1,1,0,1505911717,"\"       vim-markdown depends on tabular"
+"2	LINE	0
+	"   for vim-markdown
+|3,0,2,1,1,0,1505911716,"\"   for vim-markdown"
+"3	LINE	0
+	Plug 'plasticboy/vim-markdown', { 'for': 'markdown' } | Plug 'godlygeek/tabular'
+|3,0,3,1,1,0,1505911714,"Plug 'plasticboy/vim-markdown', { 'for': 'markdown' } | Plug 'godlygeek/tabular'"
+"4	LINE	0
+	
+|3,0,4,1,1,0,1505911706,""
+"5	LINE	0
+	Plug 'godlygeek/tabular'
+|3,0,5,1,1,0,1505911705,"Plug 'godlygeek/tabular'"
+"6	LINE	0
+	" for text-formatting
+|3,0,6,1,1,0,1505911705,"\" for text-formatting"
+"7	LINE	0
+	
+|3,0,7,1,1,0,1505911703,""
+"8	LINE	0
+	Plug 'tpope/vim-surround'
+|3,0,8,1,1,0,1505911702,"Plug 'tpope/vim-surround'"
+"9	LINE	0
+	" for ()[]{}<> ...
+|3,0,9,1,1,0,1505911702,"\" for ()[]{}<> ..."
+""-	CHAR	0
+	a
+|3,1,36,0,1,0,1505913488,"a"
+
+# 檔案標記:
+'0  52  20  C:\Vim\_vimrc
+|4,48,52,20,1519635081,"C:\\Vim\\_vimrc"
+'1  50  0  C:\Vim\_vimrc
+|4,49,50,0,1505913607,"C:\\Vim\\_vimrc"
+'2  50  0  C:\Vim\_vimrc
+|4,50,50,0,1505913607,"C:\\Vim\\_vimrc"
+'3  50  0  C:\Vim\_vimrc
+|4,51,50,0,1505913579,"C:\\Vim\\_vimrc"
+'4  50  0  C:\Vim\_vimrc
+|4,52,50,0,1505913579,"C:\\Vim\\_vimrc"
+'5  1  0  ~\[Plugins]
+|4,53,1,0,1505913533,"~\\[Plugins]"
+'6  96  0  C:\Vim\_vimrc
+|4,54,96,0,1505911749,"C:\\Vim\\_vimrc"
+'7  96  0  C:\Vim\_vimrc
+|4,55,96,0,1505911749,"C:\\Vim\\_vimrc"
+'8  96  0  C:\Vim\_vimrc
+|4,56,96,0,1505911749,"C:\\Vim\\_vimrc"
+'9  96  0  C:\Vim\_vimrc
+|4,57,96,0,1505911749,"C:\\Vim\\_vimrc"
+
+# Jumplist (由新到舊):
+-'  52  20  C:\Vim\_vimrc
+|4,39,52,20,1519635081,"C:\\Vim\\_vimrc"
+-'  50  0  C:\Vim\_vimrc
+|4,39,50,0,1519635036,"C:\\Vim\\_vimrc"
+-'  50  0  C:\Vim\_vimrc
+|4,39,50,0,1505913607,"C:\\Vim\\_vimrc"
+-'  50  0  C:\Vim\_vimrc
+|4,39,50,0,1505913607,"C:\\Vim\\_vimrc"
+-'  50  0  C:\Vim\_vimrc
+|4,39,50,0,1505913579,"C:\\Vim\\_vimrc"
+-'  50  0  C:\Vim\_vimrc
+|4,39,50,0,1505913579,"C:\\Vim\\_vimrc"
+-'  79  19  C:\Vim\_vimrc
+|4,39,79,19,1505913558,"C:\\Vim\\_vimrc"
+-'  79  19  C:\Vim\_vimrc
+|4,39,79,19,1505913558,"C:\\Vim\\_vimrc"
+-'  79  19  C:\Vim\_vimrc
+|4,39,79,19,1505913558,"C:\\Vim\\_vimrc"
+-'  79  19  C:\Vim\_vimrc
+|4,39,79,19,1505913558,"C:\\Vim\\_vimrc"
+-'  79  19  C:\Vim\_vimrc
+|4,39,79,19,1505913558,"C:\\Vim\\_vimrc"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  1  0  ~\[Plugins]
+|4,39,1,0,1505913533,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  2  0  ~\[Plugins]
+|4,39,2,0,1505913518,"~\\[Plugins]"
+-'  5  0  ~\[Plugins]
+|4,39,5,0,1505913518,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  3  0  ~\[Plugins]
+|4,39,3,0,1505913515,"~\\[Plugins]"
+-'  96  0  C:\Vim\_vimrc
+|4,39,96,0,1505911749,"C:\\Vim\\_vimrc"
+-'  96  0  C:\Vim\_vimrc
+|4,39,96,0,1505911749,"C:\\Vim\\_vimrc"
+-'  96  0  C:\Vim\_vimrc
+|4,39,96,0,1505911749,"C:\\Vim\\_vimrc"
+-'  96  0  C:\Vim\_vimrc
+|4,39,96,0,1505911749,"C:\\Vim\\_vimrc"
+-'  96  0  C:\Vim\_vimrc
+|4,39,96,0,1505911749,"C:\\Vim\\_vimrc"
+-'  96  0  C:\Vim\_vimrc
+|4,39,96,0,1505911749,"C:\\Vim\\_vimrc"
+-'  96  0  C:\Vim\_vimrc
+|4,39,96,0,1505911749,"C:\\Vim\\_vimrc"
+-'  96  0  C:\Vim\_vimrc
+|4,39,96,0,1505911749,"C:\\Vim\\_vimrc"
+-'  96  0  C:\Vim\_vimrc
+|4,39,96,0,1505911749,"C:\\Vim\\_vimrc"
+-'  96  0  C:\Vim\_vimrc
+|4,39,96,0,1505911749,"C:\\Vim\\_vimrc"
+-'  96  0  C:\Vim\_vimrc
+|4,39,96,0,1505911749,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911551,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911551,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911551,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911551,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911551,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911551,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911551,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911551,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911551,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911551,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911551,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911515,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911515,"C:\\Vim\\_vimrc"
+-'  102  42  C:\Vim\_vimrc
+|4,39,102,42,1505911515,"C:\\Vim\\_vimrc"
+
+# 檔案內 Mark 記錄 (由新到舊):
+
+> C:\Vim\_vimrc
+	*	1519635069	0
+	"	52	20
+	^	50	0
+	.	78	39
+	+	103	0
+	+	102	0
+	+	103	0
+	+	102	0
+	+	121	0
+	+	109	0
+	+	112	0
+	+	121	0
+	+	112	0
+	+	109	0
+	+	108	0
+	+	112	0
+	+	115	0
+	+	80	27
+	+	78	27
+	+	82	20
+	+	84	27
+	+	82	31
+	+	84	31
+	+	80	39
+	+	78	39
+
+> C:\shconfigs\vim\_vimrc
+	*	1505911412	0
+	"	98	0
+
+> C:\cmder\config\user-profile.cmd
+	*	1505910963	0
+	"	2	0
+
+> C:\Vim\autoload\plug.vim
+	*	1505908846	0
+	"	19	0
+
+> C:\Vim\vim80\README.txt
+	*	1505908157	0
+	"	1	0
